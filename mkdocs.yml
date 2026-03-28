@@ -1,0 +1,6 @@
+site_name: OpenWeather API Documentation
+site_description: A beginner's guide to retrieving weather data
+theme:
+  name: material
+nav:
+  - Home: index.md
