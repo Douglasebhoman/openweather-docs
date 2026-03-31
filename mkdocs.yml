@@ -4,3 +4,9 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - Prerequisites: prerequisites.md
+  - Authentication: authentication.md
+  - Endpoints: endpoints.md
+  - Reading the Response: response.md
+  - Error Handling: errors.md
+  - Quick Reference: quickreference.md
