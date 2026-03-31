@@ -34,6 +34,12 @@ response with an error code and a message explaining what happened.
 ---
 
 ### 429 — Too Many Requests
+```json
+{
+    "cod": 429,
+    "message": "Your account is temporary blocked due to exceeding of requests limitation of your subscription type."
+}
+```
 
 **Cause:** You have exceeded your plan's rate limit.
 
