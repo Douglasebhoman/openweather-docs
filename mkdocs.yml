@@ -6,7 +6,7 @@ nav:
   - Home: index.md
   - Prerequisites: prerequisites.md
   - Authentication: authentication.md
-  - Endpoints: endpoints.md
+  - Endpoints: endpoint.md
   - Reading the Response: response.md
   - Error Handling: errors.md
   - Troubleshooting: troubleshooting.md
