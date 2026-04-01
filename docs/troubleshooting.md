@@ -62,4 +62,4 @@ only appear when precipitation is actually occurring.
 ## Still Stuck?
 
 - Check the [OpenWeather FAQ](https://openweathermap.org/faq)
-- Check the [OpenWeather API Status](https://status.openweathermap.org)
+- Check the [OpenWeather API Status](https://openweathermap.org/api/history-api-full-archive)
