@@ -1,13 +1,43 @@
 site_name: OpenWeather API Documentation
-site_description: A beginner's guide to retrieving weather data
+site_url: https://douglasebhoman.com/openweather-docs/
+site_author: Douglas Ebhoman
+site_description: A practical getting started guide for the OpenWeather REST API — written for anyone, not just developers.
+
+repo_name: Douglasebhoman/openweather-docs
+repo_url: https://github.com/Douglasebhoman/openweather-docs
+
 theme:
   name: material
-nav:
-  - Home: index.md
-  - Prerequisites: prerequisites.md
-  - Authentication: authentication.md
-  - Endpoints: endpoints.md
-  - Reading the Response: response.md
-  - Error Handling: errors.md
-  - Troubleshooting: troubleshooting.md
-  - Quick Reference: quickreference.md
+  custom_dir: docs/overrides
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+  font:
+    text: false
+    code: false
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/brand.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - def_list
+  - tables
