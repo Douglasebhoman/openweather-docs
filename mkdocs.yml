@@ -8,7 +8,6 @@ repo_url: https://github.com/Douglasebhoman/openweather-docs
 
 theme:
   name: material
-  custom_dir: docs/overrides
   palette:
     scheme: slate
     primary: custom
