@@ -25,6 +25,17 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+nav:
+  - '← douglasebhoman.com': 'https://douglasebhoman.com'
+  - Home: index.md
+  - Prerequisites: prerequisites.md
+  - Authentication: authentication.md
+  - Endpoints: endpoints.md
+  - Reading the Response: response.md
+  - Error Handling: errors.md
+  - Troubleshooting: troubleshooting.md
+  - Quick Reference: quickreference.md
+
 extra_css:
   - stylesheets/brand.css
 
