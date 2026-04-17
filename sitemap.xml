@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/authentication/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/endpoints/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/errors/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/prerequisites/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/quickreference/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/response/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+    <url>
+         <loc>https://douglasebhoman.com/openweather-docs/troubleshooting/</loc>
+         <lastmod>2026-04-17</lastmod>
+    </url>
+</urlset>
