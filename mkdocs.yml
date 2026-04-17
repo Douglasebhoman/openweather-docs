@@ -8,6 +8,8 @@ repo_url: https://github.com/Douglasebhoman/openweather-docs
 
 theme:
   name: material
+  logo: assets/logo.svg
+  homepage: https://douglasebhoman.com
   palette:
     scheme: slate
     primary: custom
@@ -26,7 +28,6 @@ theme:
     repo: fontawesome/brands/github
 
 nav:
-  - '← douglasebhoman.com': 'https://douglasebhoman.com'
   - Home: index.md
   - Prerequisites: prerequisites.md
   - Authentication: authentication.md
