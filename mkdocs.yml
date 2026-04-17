@@ -40,6 +40,14 @@ nav:
 extra_css:
   - stylesheets/brand.css
 
+extra:
+  social:
+    - icon: fontawesome/solid/house
+      link: https://douglasebhoman.com
+      name: douglasebhoman.com
+
+copyright: '© 2026 Douglas Ebhoman · <a href="https://douglasebhoman.com">douglasebhoman.com</a>'
+
 markdown_extensions:
   - admonition
   - pymdownx.details
